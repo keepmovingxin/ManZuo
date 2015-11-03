@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<response>
+  <result>0</result>
+  <version>1</version>
+  <list>
+    <type>
+      <name>全部</name>
+      <code>all</code>
+    </type>
+    <type>
+      <name>美食</name>
+      <code>1</code>
+    </type>
+    <type>
+      <name>娱乐</name>
+      <code>2</code>
+    </type>
+    <type>
+      <name>生活</name>
+      <code>5</code>
+    </type>
+    <type>
+      <name>其他</name>
+      <code>9</code>
+    </type>
+  </list>
+</response>

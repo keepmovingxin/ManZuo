@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<response>
+  <result>0</result>
+  <version>1</version>
+  <list>
+    <channel>
+      <name>吃喝玩乐</name>
+      <code>today</code>
+      <id>20</id>
+    </channel>
+    <channel>
+      <name>精品网购</name>
+      <code>jingpin</code>
+      <id>27</id>
+    </channel>
+    <channel>
+      <name>酒店度假</name>
+      <code>hotel</code>
+      <id>28</id>
+    </channel>
+    <channel>
+      <name>文化娱乐</name>
+      <code>ent</code>
+      <id>26</id>
+    </channel>
+  </list>
+</response>

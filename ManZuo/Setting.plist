@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>登录|注册</string>
+		<string>订单,满座券,折扣券</string>
+	</array>
+	<array>
+		<string>收货地址</string>
+		<string>同步设置</string>
+		<string>系统设置</string>
+	</array>
+	<array>
+		<string>喜欢满座，就给我们个评分吧：）</string>
+		<string>关于满座</string>
+		<string>意见反馈</string>
+		<string>满座客服  4006-858-666</string>
+		<string>应用推荐</string>
+	</array>
+</array>
+</plist>
